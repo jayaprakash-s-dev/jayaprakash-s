@@ -1,182 +1,210 @@
 <div align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Jayaprakash S — Senior PHP / Laravel Developer" />
 
-<div align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Jayaprakash S - Senior PHP Laravel Developer"/>
-</div>
+  <h1>Jayaprakash S</h1>
+  <h3>Senior PHP / Laravel Developer</h3>
+  <p><strong>Technical Business Analyst · Team Lead · Server & Deployment</strong></p>
+  <p>Enterprise Applications · ERP / CRM · REST APIs · AI Integration · Infrastructure</p>
 
-# 👋 Hi, I'm Jayaprakash S
-
-### Senior PHP / Laravel Developer · Technical Business Analyst
-
-**Enterprise Applications · ERP/CRM · REST APIs · AI Integration · Server & Deployment**
-
-[![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-00B8D9?style=for-the-badge)](https://github.com/jayaprakash-s)
-[![Location](https://img.shields.io/badge/Coimbatore-Tamil%20Nadu-7C3AED?style=for-the-badge)](https://github.com/jayaprakash-s)
-[![GitHub](https://img.shields.io/badge/GitHub-jayaprakash--s-111827?style=for-the-badge&logo=github)](https://github.com/jayaprakash-s)
-
-**From business requirements to production-ready applications.**
-
+  <p>
+    <a href="https://github.com/jayaprakash-s-dev">
+      <img src="https://img.shields.io/badge/GitHub-jayaprakash--s--dev-181717?style=flat&logo=github" alt="GitHub profile" />
+    </a>
+    <img src="https://img.shields.io/badge/Experience-5%2B%20Years-0EA5E9?style=flat" alt="5+ years experience" />
+    <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-7C3AED?style=flat" alt="Coimbatore, India" />
+  </p>
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm a **Senior PHP / Laravel Developer and Technical Business Analyst** with **5+ years of experience** building, customizing and maintaining web applications and enterprise business solutions. I work across **backend development, database design, ERP/CRM workflows, REST APIs, client requirement analysis, deployment and production support**.
+I'm **Jayaprakash S**, a Senior PHP / Laravel Developer and Technical Business Analyst with **5+ years of professional experience** building, customizing, deploying and maintaining web applications and enterprise business solutions.
 
-- 💻 Develop with **PHP, Laravel, CodeIgniter, MySQL, JavaScript and jQuery**.
-- 🏢 Build business workflows for **ERP, CRM, inventory, purchasing, sales, invoicing and reporting**.
-- 🔗 Integrate **payment gateways, GST e-Invoicing/e-Way Bill, SMS, WhatsApp and third-party APIs**.
-- 🤖 Integrated a **Google Gemini-powered chatbot** into a Laravel ERP application.
-- 👥 Coordinate a **7-member cross-functional team**, while contributing hands-on to development.
-- 🖥️ Hands-on with **VPS, shared hosting, Linux, cPanel, CyberPanel and web application deployment**.
+I work across the software delivery lifecycle — from understanding client requirements and translating business processes into technical workflows to backend development, database operations, API integration, deployment and production support.
 
-## 🧰 Technology Stack
+- Build and customize applications using **PHP, Laravel, CodeIgniter, MySQL, JavaScript and jQuery**.
+- Develop **ERP and CRM workflows** for inventory, purchasing, sales, invoicing, job orders and reporting.
+- Build **REST APIs** and coordinate integrations with mobile applications.
+- Integrate payment gateways, GST-related services, e-Invoicing, e-Way Bill, SMS, WhatsApp and third-party APIs.
+- Integrated a **Google Gemini-powered chatbot** into a Laravel ERP application.
+- Coordinate a **7-member cross-functional team** while continuing hands-on development.
+- Handle hosting and deployment tasks across **VPS, shared hosting, Linux, cPanel and CyberPanel** environments.
 
-**Backend & APIs**
+## 🧩 Technical Expertise
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter" alt="PHP, Laravel and CodeIgniter" />
+</p>
+**PHP · Laravel · CodeIgniter · REST API development · Backend business logic**
 
-**Frontend**
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery" alt="HTML, CSS, JavaScript and jQuery" />
+</p>
+**HTML5 · CSS3 · JavaScript · jQuery · Forms · Tables · Graphs · Frontend–backend integration**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+### Database & Real-Time Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,redis" alt="MySQL and Redis" />
+</p>
+**MySQL · Redis · WebSockets**
 
-**Databases & Real-Time**
+### Infrastructure, Hosting & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,apache,nginx" alt="Linux, Apache and Nginx" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-1F2937?style=flat-square)
+**Hands-on practical experience**
+- **Hosting:** VPS and shared hosting
+- **Control panels:** cPanel and CyberPanel
+- **Web servers:** Apache and Nginx
+- **Linux operations:** SSH access and file permissions
+- **Domain & security:** Domain configuration, DNS configuration and SSL installation
+- **PHP environments:** PHP version and extension configuration
+- **Database operations:** MySQL backup and restore
+- **Scheduled tasks:** Cron job configuration
+- **Hosting services:** Email hosting
+- **Delivery:** Application deployment, troubleshooting and maintenance
 
-**Infrastructure & Tools**
+### Developer Tools & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,composer" alt="Git, GitHub, Postman and Composer" />
+</p>
+**Git · GitHub · Postman · Composer · Google Gemini API · ChatGPT · Claude · GitHub Copilot**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white) ![CyberPanel](https://img.shields.io/badge/CyberPanel-2563EB?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+### Integrations
+**Payment gateways · GST workflows · HSN-based reporting · e-Invoicing · e-Way Bill · SMS APIs · WhatsApp APIs · Third-party APIs**
 
-**AI-Assisted Development**
-
-Google Gemini API · ChatGPT · Claude · GitHub Copilot
-
-## 🖥️ Server, Hosting & Deployment
-
-**Hands-on practical experience** supporting web application hosting, deployment and production operations.
-
-| Area | Hands-on skills |
-|---|---|
-| Hosting | VPS, Shared Hosting |
-| Control panels | cPanel, CyberPanel |
-| Operating systems & web servers | Linux, Apache, Nginx |
-| Domains & security | Domain and DNS configuration, SSL installation |
-| PHP environments | PHP versions and extensions |
-| Databases | MySQL backup and restore |
-| Operations | Cron jobs, SSH, file permissions |
-| Hosting services | Email hosting |
-| Delivery | Application deployment, troubleshooting and maintenance |
+---
 
 ## 💼 Professional Experience
 
 ### Senior Developer / Technical Business Analyst
-**Idreamdevelopers · December 2021 – Present**
+**Idreamdevelopers** · December 2021 – Present
 
-- Work directly with clients to gather requirements, analyse processes and translate business needs into technical workflows.
-- Develop and customize PHP/Laravel/CodeIgniter web applications, forms, tables, graphs and backend business logic.
-- Build REST APIs for mobile apps and coordinate integration with mobile development teams.
-- Design MySQL database structures and implement ERP/CRM modules spanning inventory, stock, inward, delivery challan, item issue, job work, purchasing, sales, invoicing and reporting.
-- Implement GST/HSN-related workflows, e-Invoicing, e-Way Bills, payment gateways, SMS and WhatsApp integrations.
-- Coordinate **3 PHP developers (including myself), 2 UI/UX designers and 2 mobile application developers**.
-- Support shared hosting/VPS deployments, production troubleshooting and ongoing customizations.
+- Work directly with clients to gather requirements, analyse business processes, clarify business rules and translate needs into technical specifications and application workflows.
+- Develop and customize web applications using PHP, Laravel, CodeIgniter, MySQL, JavaScript, jQuery, HTML and CSS.
+- Build frontend forms, tables and graphs, connecting user interfaces with backend business logic and databases.
+- Develop REST APIs and backend services for mobile applications, coordinating data exchange with mobile application developers.
+- Design database structures and implement ERP / CRM business logic across inventory, stock, inward, delivery challan, item issue, job work, purchase, sales, invoicing and reporting workflows.
+- Implement GST-related workflows and integrations, including HSN-based reporting, e-Invoicing, e-Way Bills, payment gateways, SMS, WhatsApp and other third-party APIs.
+- Coordinate a **7-member cross-functional team**: 3 PHP developers (including myself), 2 UI/UX designers and 2 mobile application developers.
+- Support application deployment and maintenance on shared hosting and VPS environments, troubleshoot production issues and deliver ongoing customizations.
+
+---
 
 ## 🏗️ Selected Project Experience
 
-> These are professional project case studies, not links to public source code. Client-owned implementations are not published here.
+> These are professional project case studies based on my work experience. Client-owned source code and confidential implementation details are not published here.
 
-### 🏢 01 · Customized ERP Solutions
-**Enterprise operations and process automation**
+### 01 · Customized ERP Solutions
+**Enterprise operations & process automation**
 
-Built and customized ERP workflows for multiple client businesses, including inventory, stock, inward, purchase, sales, invoicing, delivery challans, item issues and job work. Implemented in-house **Job Order Management** with process tracking, alongside HSN-based GST reporting, e-Invoicing and e-Way Bill functionality.
+Developed and customized ERP applications for multiple client requirements. Worked on inventory, inward, stock management, purchase, sales, invoicing, delivery challan, item issue and job work modules. Implemented in-house **Job Order Management** with end-to-end process tracking, along with GST-related workflows, HSN-based reporting, e-Invoicing and e-Way Bill functionality.
 
 `PHP` `Laravel` `CodeIgniter` `MySQL` `JavaScript` `jQuery` `REST APIs`
 
-### 🚜 02 · Earth Movers ERP
-**Vehicle, equipment and project monitoring**
+### 02 · Earth Movers ERP
+**Vehicle, equipment & project monitoring**
 
-Implemented vehicle management, mileage and usage tracking, service and maintenance workflows, vehicle running-hour monitoring, equipment utilization and project monitoring features.
+Developed customized workflows for vehicle management, mileage and usage tracking, service and maintenance monitoring, vehicle running-hour tracking, equipment utilization and project monitoring.
 
 `PHP` `Laravel` `MySQL` `JavaScript` `REST APIs`
 
-### 🚕 03 · Taxi Management System
-**Booking, trips and real-time communication**
+### 03 · Taxi Management System
+**Booking, trips & real-time communication**
 
-Developed taxi booking and trip-related workflows with **WebSockets** for real-time application updates and **Redis** supporting the real-time workflow. Contributed backend logic, database operations and frontend integration.
+Developed and customized taxi booking and trip-related workflows. Implemented real-time communication and application updates using **WebSockets**, with **Redis** supporting the real-time workflow. Contributed backend development, database operations and frontend–backend integration.
 
 `PHP` `Laravel` `MySQL` `Redis` `WebSockets` `JavaScript` `jQuery`
 
-### 🏠 04 · Real Estate CRM
-**Customized business workflows**
+### 04 · Real Estate CRM
+**Customized real estate business workflows**
 
-Analysed client requirements, developed CRM backend and database functionality, integrated frontend workflows and supported testing and deployment.
+Analysed client requirements and developed customized CRM workflows, including backend functionality, database operations and frontend–backend integration. Coordinated implementation and supported testing and deployment.
 
 `PHP` `Laravel / CodeIgniter` `MySQL` `JavaScript`
 
-### 🐔 05 · Poultry ERP
-**Bird, CRM, feed and materials management**
+### 05 · Poultry ERP
+**Bird, CRM & feed management**
 
-Developed business workflows for bird management, customer relationship management, feed production materials, and material/cage tracking.
+Developed customized poultry business workflows covering bird management, CRM functionality, feed management, material tracking and cage-related processes.
 
 `PHP` `Laravel` `MySQL`
 
-### 💍 06 · Matrimony Portal
-**Profiles and user workflows**
+### 06 · Matrimony Portal
+**Profile management & user workflows**
 
-Contributed to profile management, custom application features, backend operations and frontend/backend integration.
+Contributed to matrimony portal development, profile management functionality, customized application features, backend operations and frontend–backend integration.
 
 `PHP` `MySQL` `JavaScript` `jQuery`
 
-### 🤖 07 · AI-Powered ERP Chatbot
-**Google Gemini integration**
+### 07 · AI-Powered ERP Chatbot
+**Google Gemini API integration**
 
-Integrated a **Google Gemini-powered chatbot** into a Laravel-based ERP application, introducing AI-assisted interaction into existing enterprise workflows.
+Integrated a **Google Gemini-powered chatbot** into a Laravel-based ERP application, connecting chatbot functionality with existing ERP workflows to introduce AI-assisted interaction into the business application.
 
 `PHP` `Laravel` `Google Gemini API`
 
-### 🧩 Additional Business Applications
+### Additional Business Applications
+**eCommerce · Job Portal · HRM · Vehicle Management System (VMS) · Task Management**
 
-`eCommerce` · `Job Portal` · `HRM` · `Vehicle Management System` · `Task Management`
+---
 
-## 🤝 Technical Leadership & Business Analysis
+## 👥 Technical Leadership & Business Analysis
 
-- Lead client discussions, clarify business rules and define technical approaches.
-- Break requirements into development tasks and coordinate delivery across PHP, design and mobile teams.
-- Align API behavior, frontend integration, testing, deployment and production support.
-- Balance hands-on development with cross-functional coordination.
+I combine hands-on development with client communication and cross-functional coordination.
+
+| Team responsibility | Team size |
+|---|---:|
+| PHP developers (including myself) | 3 |
+| UI/UX designers | 2 |
+| Mobile application developers | 2 |
+| **Total team** | **7** |
+
+- Lead client discussions, understand requirements and clarify functional expectations.
+- Break requirements into development tasks and guide implementation.
+- Coordinate web and mobile teams on API requirements, application behaviour and user-interface integration.
+- Contribute hands-on across requirement analysis, development, integration, testing, deployment and production support.
 
 ## 🎓 Education
 
-**Bachelor of Engineering (Mechanical Engineering)**  
+**Bachelor of Engineering (B.E.), Mechanical Engineering**  
 Asian College of Engineering and Technology · 2018
 
-**Languages:** Tamil · English · Kannada
+## 🌐 Languages
 
-## 📈 GitHub Activity
+Tamil · English · Kannada
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jayaprakash-s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash-s&layout=compact&theme=tokyonight&hide_border=true" alt="Public repository language stats" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayaprakash-s-dev&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash-s-dev&layout=compact&hide_border=true&theme=transparent" alt="Most used public repository languages" />
 </div>
 
-> GitHub widgets reflect public repository activity only; professional client work may not appear here. Third-party widgets may occasionally be unavailable.
+<p align="center">
+  <sub>GitHub widgets reflect public repository activity only. Professional work in private or client-owned repositories may not appear here. Third-party widgets may occasionally be unavailable.</sub>
+</p>
+
+---
 
 ## 📬 Connect
 
-- 📍 **Coimbatore, Tamil Nadu, India**
-- ✉️ **[jayaprakashppy@outlook.com](mailto:jayaprakashppy@outlook.com)**
-- 💻 **[github.com/jayaprakash-s](https://github.com/jayaprakash-s)**
+- **Location:** Coimbatore, Tamil Nadu, India
+- **Email:** [jayaprakashppy@outlook.com](mailto:jayaprakashppy@outlook.com)
+- **GitHub:** [github.com/jayaprakash-s-dev](https://github.com/jayaprakash-s-dev)
 
 <div align="center">
 
 ---
 
-### ✨ Building Smart Solutions. Engineering Scalable Applications.
+### Building Smart Solutions. Engineering Scalable Applications.
 
-**Thanks for visiting my portfolio!**
+**Thanks for visiting my developer portfolio.**
 
 </div>
