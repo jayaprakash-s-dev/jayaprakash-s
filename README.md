@@ -3,14 +3,16 @@
 
 # 👋 Hi, I'm Jayaprakash S
 
-### Senior PHP / Laravel Developer | Technical Business Analyst
+### Senior PHP / Laravel Developer
+#### Technical Business Analyst | Server & Deployment Management
 
-**Building Scalable Web Applications · ERP Solutions · CRM Systems · AI Integrations**
+**Building Business Applications | ERP & CRM Solutions | AI Integrations**
 
 📍 Coimbatore, Tamil Nadu, India
 
-[![Years Experience](https://img.shields.io/badge/Experience-5%2B%20Years-success?style=for-the-badge)](https://github.com/jayaprakash-s)
-[![Profile](https://img.shields.io/badge/GitHub-jayaprakash--s-181717?style=for-the-badge&logo=github)](https://github.com/jayaprakash-s)
+[![GitHub](https://img.shields.io/badge/GitHub-jayaprakash--s-181717?style=for-the-badge&logo=github)](https://github.com/jayaprakash-s)
+[![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-success?style=for-the-badge)](https://github.com/jayaprakash-s)
+[![PHP](https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php)](https://www.php.net/)
 
 </div>
 
@@ -18,50 +20,75 @@
 
 ## 🚀 About Me
 
-I'm a **Senior PHP / Laravel Developer and Technical Business Analyst** with 5+ years of experience in developing, customizing, and maintaining web applications and enterprise business solutions.
+I'm a Senior PHP / Laravel Developer and Technical Business Analyst with 5+ years of experience building, customizing, deploying and maintaining web applications and enterprise solutions.
 
-I specialize in transforming business requirements into scalable technical solutions, developing ERP and CRM applications, integrating third-party services, and coordinating cross-functional development teams.
+My expertise combines backend development, database management, server handling, business process analysis, API integrations and technical team coordination.
+
+I enjoy transforming complex business requirements into reliable, scalable and practical software solutions.
 
 - 💻 5+ years of professional development experience.
-- ⚙️ Specialized in PHP, Laravel, CodeIgniter and MySQL.
-- 🏢 Experienced in ERP and CRM application development.
-- 🔗 Experienced in REST API and third-party integrations.
-- 🤖 Integrated Google Gemini AI chatbot into a Laravel ERP.
-- 👥 Led and coordinated a 7-member cross-functional team.
-- 📊 Experienced in technical business analysis and requirement gathering.
-- 🚀 Hands-on experience in deployment and production support.
+- ⚙️ PHP, Laravel and CodeIgniter development.
+- 🏢 ERP, CRM and enterprise application development.
+- 🖥️ VPS and shared hosting management.
+- 🔧 cPanel and CyberPanel administration.
+- 🌐 Application deployment and production support.
+- 🔗 REST API and third-party integrations.
+- 🤖 Google Gemini AI integration with Laravel ERP.
+- 👥 Coordinating a 7-member cross-functional team.
 
-## 🛠️ Technical Skills
+---
+
+## 🛠️ Technical Expertise
 
 ### Backend Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Database & Real-Time Technologies
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-### Tools & Development
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Database & Real-Time
 
-### AI & Integrations
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+
+### Server Management & Deployment
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![CyberPanel](https://img.shields.io/badge/CyberPanel-1677FF?style=flat-square)
+
+- VPS Server Management
+- Shared Hosting Management
+- cPanel Administration
+- CyberPanel Administration
+- Linux Command Line
+- Website and Application Deployment
+- Domain and Hosting Configuration
+- Production Troubleshooting
+- Application Maintenance and Support
+
+### Development Tools & Integrations
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+- Payment Gateway Integrations
+- GST, e-Invoicing and e-Way Bill
+- SMS and WhatsApp APIs
+- Google Gemini API
+- Third-Party API Integrations
 
 ---
 
@@ -70,116 +97,128 @@ I specialize in transforming business requirements into scalable technical solut
 ### Senior Developer / Technical Business Analyst
 **Idreamdevelopers | December 2021 – Present**
 
-My responsibilities include:
-
-- Gathering client requirements and analysing business processes.
-- Converting business requirements into technical specifications and application workflows.
-- Developing and customizing PHP, Laravel and CodeIgniter applications.
-- Building REST APIs and backend services for mobile applications.
-- Designing database structures and implementing business logic.
-- Developing ERP and CRM modules for multiple industries.
-- Integrating payment gateways, GST workflows, e-Invoicing, e-Way Bills, SMS and WhatsApp APIs.
-- Coordinating a 7-member cross-functional team.
-- Managing implementation, testing, deployment and production support.
-
-### Technical Leadership & Business Analysis
-
-- Lead client discussions and requirement analysis.
-- Break business requirements into development tasks.
-- Guide developers, UI/UX designers and mobile developers.
-- Coordinate API integration and application workflows.
-- Contribute hands-on to development while managing team activities.
+- Gather and analyse client requirements.
+- Convert business requirements into technical specifications.
+- Develop and customize enterprise applications using PHP, Laravel and CodeIgniter.
+- Build REST APIs and backend services for mobile applications.
+- Design databases and implement complex business logic.
+- Develop ERP and CRM workflows across multiple industries.
+- Integrate payment gateways, GST services, SMS and WhatsApp APIs.
+- Coordinate a 7-member cross-functional development team.
+- Handle deployment, production troubleshooting and application maintenance.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Customized ERP Solutions
+### 01. Customized ERP Solutions
+
 **Enterprise Resource Planning**
 
-Developed and customized ERP applications for different business requirements.
+- Inventory and stock management.
+- Purchase and sales management.
+- Inward and delivery challan.
+- Item issue and job work.
+- Job Order Management and process tracking.
+- GST and HSN-based reporting.
+- e-Invoicing and e-Way Bill.
+- Invoicing and business reports.
 
-Key modules:
-- Inventory and stock management
-- Purchase and sales management
-- Inward and delivery challan
-- Item issue and job work
-- In-house Job Order Management
-- GST and HSN-based reporting
-- e-Invoicing and e-Way Bill integration
-- Invoicing and business reports
+**Stack:** PHP, Laravel, CodeIgniter, MySQL, JavaScript, jQuery, REST API.
 
-**Technologies:** PHP, Laravel, CodeIgniter, MySQL, JavaScript, jQuery, REST APIs.
+### 02. Earth Movers ERP
 
-### 2. Earth Movers ERP
 **Vehicle & Project Monitoring**
 
-- Vehicle management and mileage monitoring.
+- Vehicle and mileage management.
 - Vehicle usage tracking.
 - Service and maintenance monitoring.
 - Running-hour tracking.
-- Equipment utilization and project monitoring.
+- Project and equipment utilization monitoring.
 
-**Technologies:** PHP, Laravel, MySQL, JavaScript, REST APIs.
+**Stack:** PHP, Laravel, MySQL, JavaScript, REST API.
 
-### 3. Taxi Management System
+### 03. Taxi Management System
 
-- Taxi booking and trip management workflows.
+**Real-Time Application**
+
+- Taxi booking and trip workflows.
 - Real-time communication using WebSockets.
-- Redis-supported real-time operations.
-- Backend development and database management.
+- Redis-supported real-time functionality.
+- Backend and database development.
 - Frontend and backend integration.
 
-**Technologies:** PHP, Laravel, MySQL, Redis, WebSockets, JavaScript, jQuery.
+**Stack:** PHP, Laravel, MySQL, Redis, WebSockets, JavaScript, jQuery.
 
-### 4. Real Estate CRM
+### 04. Real Estate CRM
 
-- Analysed real estate business requirements.
-- Developed customized CRM workflows.
-- Implemented backend functionality and database operations.
-- Supported testing, coordination and deployment.
+- Customized real estate business workflows.
+- CRM backend functionality.
+- Database and frontend integration.
+- Testing and deployment coordination.
 
-**Technologies:** PHP, Laravel, CodeIgniter, MySQL, JavaScript.
+**Stack:** PHP, Laravel, CodeIgniter, MySQL, JavaScript.
 
-### 5. Poultry ERP
+### 05. Poultry ERP
 
 **Bird, CRM & Feed Management**
 
-- Bird management workflows.
+- Bird management.
 - Customer relationship management.
-- Feed management and material tracking.
-- Cage and material management.
+- Feed management.
+- Material and cage management.
 
-**Technologies:** PHP, Laravel, MySQL.
+**Stack:** PHP, Laravel, MySQL.
 
-### 6. Matrimony Portal
+### 06. Matrimony Portal
 
-- Matrimony portal development.
-- Profile management functionality.
-- Customized user workflows.
+- Profile management.
+- Customized application features.
+- User workflow development.
 - Backend and frontend integration.
 
-**Technologies:** PHP, MySQL, JavaScript, jQuery.
+**Stack:** PHP, MySQL, JavaScript, jQuery.
 
-### 7. AI-Powered ERP Chatbot Integration
+### 07. AI-Powered ERP Chatbot
 
-- Integrated a Google Gemini-powered chatbot into a Laravel ERP application.
-- Connected AI chatbot functionality with ERP business workflows.
-- Explored AI-assisted interactions within enterprise applications.
+**Google Gemini Integration**
 
-**Technologies:** PHP, Laravel, Google Gemini API.
+- Integrated a Google Gemini-powered chatbot into a Laravel ERP.
+- Connected AI chatbot functionality with ERP application workflows.
+- Introduced AI-assisted interactions into business applications.
+
+**Stack:** PHP, Laravel, Google Gemini API.
+
+### Other Business Applications
+
+- eCommerce Applications
+- Job Portal
+- Human Resource Management (HRM)
+- Vehicle Management System (VMS)
+- Task Management Systems
 
 ---
 
-## 🏢 Other Business Applications
+## 🖥️ Server & Deployment Experience
 
-Additional experience in developing and customizing:
+I also work with hosting environments and application deployment.
 
-- eCommerce Applications
-- Job Portal Applications
-- Human Resource Management (HRM)
-- Vehicle Management Systems (VMS)
-- Task Management Systems
+**Hosting & Server Platforms**
+
+- VPS Hosting
+- Shared Hosting
+- cPanel
+- CyberPanel
+- Linux Server Environments
+
+**Deployment & Operations**
+
+- Web application deployment
+- Domain and hosting configuration
+- Server-side application troubleshooting
+- Production issue resolution
+- Application maintenance
+- Hosting environment management
 
 ---
 
@@ -187,11 +226,19 @@ Additional experience in developing and customizing:
 
 **Cross-Functional Team Coordination – 7 Members**
 
-- 3 PHP Developers (including myself)
-- 2 UI/UX Designers
-- 2 Mobile Application Developers
+| Role | Team Size |
+|---|---:|
+| PHP Developers (including myself) | 3 |
+| UI/UX Designers | 2 |
+| Mobile Application Developers | 2 |
+| Total | 7 |
 
-Responsibilities include task allocation, implementation coordination, API integration, requirement clarification and delivery support.
+Responsibilities:
+- Requirement analysis and task allocation.
+- Development coordination.
+- API and application integration.
+- Implementation guidance.
+- Testing and deployment coordination.
 
 ---
 
@@ -202,13 +249,9 @@ Responsibilities include task allocation, implementation coordination, API integ
 Mechanical Engineering  
 Asian College of Engineering and Technology | 2018
 
----
-
 ## 🌐 Languages
 
-- Tamil
-- English
-- Kannada
+Tamil | English | Kannada
 
 ---
 
@@ -228,20 +271,18 @@ Asian College of Engineering and Technology | 2018
 
 ## 🤝 Let's Connect
 
-I'm interested in building scalable business applications, enterprise solutions, API integrations and AI-powered applications.
+Interested in enterprise application development, ERP/CRM solutions, backend engineering, server management and AI-powered applications.
 
 📧 **Email:** jayaprakashppy@outlook.com
 
-💻 **GitHub:** [github.com/jayaprakash-s](https://github.com/jayaprakash-s)
+💻 **GitHub:** https://github.com/jayaprakash-s
 
 📍 **Location:** Coimbatore, Tamil Nadu, India
 
----
-
 <div align="center">
 
-### "Turning Business Requirements into Scalable Software Solutions."
+### "From Business Requirements to Production-Ready Applications."
 
-⭐ Thanks for visiting my GitHub profile!
+**Thanks for visiting my profile! ⭐**
 
 </div>
